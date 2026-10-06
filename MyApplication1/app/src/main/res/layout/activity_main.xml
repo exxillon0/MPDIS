@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kot1">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- ПУНКТ 5: Несколько TextView с разными шрифтами и размерами -->
+        <TextView
+            android:id="@+id/tvLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/large_text"
+            android:textSize="32sp"
+            android:typeface="serif"
+            android:textColor="#000000"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/tvMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/medium_text"
+            android:textSize="24sp"
+            android:typeface="sans"
+            android:textColor="#333333"
+            app:layout_constraintTop_toBottomOf="@id/tvLarge"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/tvSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/small_text"
+            android:textSize="16sp"
+            android:typeface="monospace"
+            android:textColor="#555555"
+            app:layout_constraintTop_toBottomOf="@id/tvMedium"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="8dp"/>
+
+        <!-- ПУНКТ 7: Слова Hello и World разными цветами -->
+        <LinearLayout
+            android:id="@+id/llHelloWorld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/tvSmall"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hello"
+                android:textSize="28sp"
+                android:textColor="#FF0000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/world"
+                android:textSize="28sp"
+                android:textColor="#0000FF"
+                android:layout_marginStart="8dp"/>
+        </LinearLayout>
+
+        <!-- ПУНКТ 8: Картинка с подписью -->
+        <ImageView
+            android:id="@+id/imgMain"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/kot2"
+            android:scaleType="centerCrop"
+            app:layout_constraintTop_toBottomOf="@id/llHelloWorld"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="16dp"/>
+
+        <TextView
+            android:id="@+id/tvCaption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/image_caption"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            app:layout_constraintTop_toBottomOf="@id/imgMain"
+            app:layout_constraintStart_toStartOf="@id/imgMain" />
+
+        <!-- ПУНКТ 10: Пирамида из 3 картинок -->
+        <FrameLayout
+            android:id="@+id/framePyramid"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            app:layout_constraintTop_toBottomOf="@id/tvCaption"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="24dp">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@drawable/kot3"
+                android:layout_gravity="bottom|center_horizontal" />
+
+            <ImageView
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:src="@drawable/kot4"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_marginBottom="30dp"/>
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/kot5"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_marginBottom="60dp"/>
+        </FrameLayout>
+
+        <!-- ПУНКТ 11: Текст поверх картинки -->
+        <FrameLayout
+            android:id="@+id/frameTextOverImage"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            app:layout_constraintTop_toBottomOf="@id/framePyramid"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="24dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/kot2"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_over_image"
+                android:textSize="20sp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:background="#80000000"
+                android:padding="8dp"/>
+        </FrameLayout>
+
+        <!-- ПУНКТ 6: Текст Hello World в нижнем правом углу -->
+        <TextView
+            android:id="@+id/tvBottomRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hello_world"
+            android:textSize="24sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@id/frameTextOverImage"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="32dp"
+            android:layout_marginBottom="32dp"/>
+
+        <!-- ============================================== -->
+        <!-- НОВЫЙ БЛОК: ЗАДАНИЯ 1-5 (Кнопки управления) -->
+        <!-- ============================================== -->
+        <LinearLayout
+            android:id="@+id/controlsLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintTop_toBottomOf="@id/tvBottomRight"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="32dp"
+            android:padding="16dp"
+            android:background="#CCFFFFFF"> <!-- Полупрозрачный белый фон для читаемости -->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Управление текстом и экраном"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="16dp"/>
+
+            <!-- Задание 1: Изменение цвета экрана -->
+            <Button
+                android:id="@+id/btnBgColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. Изменить цвет экрана" />
+
+            <!-- Задание 2: Изменение размера шрифта -->
+            <Button
+                android:id="@+id/btnFontSize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2. Изменить размер шрифта" />
+
+            <!-- Задание 3: Изменение жирности и наклона -->
+            <Button
+                android:id="@+id/btnFontStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3. Жирный / Курсив" />
+
+            <!-- Задание 4: Изменение типа шрифта -->
+            <Button
+                android:id="@+id/btnFontFamily"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4. Изменить тип шрифта" />
+
+            <!-- Задание 5: Размещение кнопок -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5. Размещение кнопок:"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="8dp"/>
+
+            <!-- Горизонтальное размещение -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <Button
+                    android:id="@+id/btnHorizontal1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Гориз. 1" />
+                <Button
+                    android:id="@+id/btnHorizontal2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Гориз. 2" />
+            </LinearLayout>
+
+            <!-- Вертикальное размещение -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="8dp">
+                <Button
+                    android:id="@+id/btnVertical1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Вертик. 1" />
+                <Button
+                    android:id="@+id/btnVertical2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Вертик. 2" />
+            </LinearLayout>
+
+            <!-- Кнопка с картинкой (ImageButton) -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Кнопка с картинкой:"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="8dp"/>
+            <ImageButton
+                android:id="@+id/btnImage"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/kot4"
+                android:scaleType="centerCrop"
+                android:contentDescription="Кнопка с картинкой" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

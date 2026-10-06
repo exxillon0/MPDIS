@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Лабораторная 1</string>
+    <string name="hello">Hello</string>
+    <string name="world">World</string>
+    <string name="hello_world">Hello World</string>
+    <string name="image_caption">Подпись к картинке</string>
+    <string name="text_over_image">Текст поверх картинки</string>
+    <string name="large_text">Крупный шрифт (Serif)</string>
+    <string name="medium_text">Средний шрифт (Sans)</string>
+    <string name="small_text">Мелкий шрифт (Monospace)</string>
+</resources>
