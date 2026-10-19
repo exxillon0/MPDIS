@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/xml_backup_rules.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_text_flash.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/text_flash.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_ko6.jpg.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/ko6.jpg"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_kot1.jpg.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/kot1.jpg"
+    },
+    {
+        "merged": "com.example.laba2.app-debug-40:/raw_sound2.mp3.flat",
+        "source": "com.example.laba2.app-main-42:/raw/sound2.mp3"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_flag_slide_right.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/flag_slide_right.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/raw_sound8.wav.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/raw/sound8.wav"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_flag_flip.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/flag_flip.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/raw_sound4.wav.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/raw/sound4.wav"
+    },
+    {
+        "merged": "com.example.laba2.app-debug-40:/raw_sound6.mp3.flat",
+        "source": "com.example.laba2.app-main-42:/raw/sound6.mp3"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate3.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate3.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_kot8.jpg.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/kot8.jpg"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_japan.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_japan.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_italy.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_italy.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_usa.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_usa.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate6.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate6.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_text_scale_x.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/text_scale_x.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_scale.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/scale.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_text_rotate_in.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/text_rotate_in.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_belarus.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_belarus.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_kot5.jpg.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/kot5.jpg"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_flag_zoom_rotate.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/flag_zoom_rotate.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.laba2.app-debug-40:/raw_sound3.mp3.flat",
+        "source": "com.example.laba2.app-main-42:/raw/sound3.mp3"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_text_shake.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/text_shake.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_brazil.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_brazil.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_kot2.jpg.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/kot2.jpg"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate2.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate2.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_text_slide_up.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/text_slide_up.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/raw_sound3.wav.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/raw/sound3.wav"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_flag_fade_scale.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/flag_fade_scale.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_flag_drop.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/flag_drop.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_flag_scale.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/flag_scale.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate5.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate5.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_text_zoom_fade.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/text_zoom_fade.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/raw_sound6.wav.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/raw/sound6.wav"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate1.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate1.xml"
+    },
+    {
+        "merged": "com.example.laba2.app-debug-40:/raw_sound4.mp3.flat",
+        "source": "com.example.laba2.app-main-42:/raw/sound4.mp3"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_flag_rotate.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/flag_rotate.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_kot3.jpg.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/kot3.jpg"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate8.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate8.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_text_bounce.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/text_bounce.xml"
+    },
+    {
+        "merged": "com.example.laba2.app-debug-40:/raw_sound7.mp3.flat",
+        "source": "com.example.laba2.app-main-42:/raw/sound7.mp3"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/raw_sound2.wav.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/raw/sound2.wav"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_russia.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_russia.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_germany.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_germany.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_kot7.jpg.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/kot7.jpg"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_france.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_france.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/raw_sound5.wav.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/raw/sound5.wav"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_combined.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/combined.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/raw_sound7.wav.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/raw/sound7.wav"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_flag_slide_left.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/flag_slide_left.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_kot4.jpg.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/kot4.jpg"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate4.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate4.xml"
+    },
+    {
+        "merged": "com.example.laba2.app-debug-40:/raw_sound5.mp3.flat",
+        "source": "com.example.laba2.app-main-42:/raw/sound5.mp3"
+    },
+    {
+        "merged": "com.example.laba2.app-debug-40:/raw_sound1.mp3.flat",
+        "source": "com.example.laba2.app-main-42:/raw/sound1.mp3"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/raw_sound1.wav.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/raw/sound1.wav"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/layout_list_item.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.laba2.app-debug-40:/raw_sound8.mp3.flat",
+        "source": "com.example.laba2.app-main-42:/raw/sound8.mp3"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_rotate7.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/rotate7.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/anim_text_pulse.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/anim/text_pulse.xml"
+    },
+    {
+        "merged": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-debug-40:/drawable_flag_china.xml.flat",
+        "source": "/home/exxillon/.gradle/daemon/9.6.0/com.example.laba2.app-main-42:/drawable/flag_china.xml"
+    }
+]
