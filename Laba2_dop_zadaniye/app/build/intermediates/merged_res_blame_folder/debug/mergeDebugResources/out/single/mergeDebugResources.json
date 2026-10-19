@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_flag_usa.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/flag_usa.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_flag_italy.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/flag_italy.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_flag_japan.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/flag_japan.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/raw_sound7.wav.flat",
+        "source": "com.example.countrylabapp-main-33:/raw/sound7.wav"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_text_zoom_fade.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/text_zoom_fade.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_flag_fade_scale.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/flag_fade_scale.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/raw_sound2.wav.flat",
+        "source": "com.example.countrylabapp-main-33:/raw/sound2.wav"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_flag_zoom_rotate.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/flag_zoom_rotate.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_text_pulse.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/text_pulse.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/raw_sound5.wav.flat",
+        "source": "com.example.countrylabapp-main-33:/raw/sound5.wav"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_flag_china.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/flag_china.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_flag_brazil.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/flag_brazil.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_text_flash.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/text_flash.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_flag_scale.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/flag_scale.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/layout_list_item.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/raw_sound1.wav.flat",
+        "source": "com.example.countrylabapp-main-33:/raw/sound1.wav"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_flag_germany.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/flag_germany.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_text_scale_x.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/text_scale_x.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_flag_russia.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/flag_russia.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/raw_sound3.wav.flat",
+        "source": "com.example.countrylabapp-main-33:/raw/sound3.wav"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_text_shake.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/text_shake.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/raw_sound8.wav.flat",
+        "source": "com.example.countrylabapp-main-33:/raw/sound8.wav"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_flag_rotate.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/flag_rotate.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_flag_slide_left.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/flag_slide_left.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_text_rotate_in.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/text_rotate_in.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_flag_flip.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/flag_flip.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_flag_slide_right.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/flag_slide_right.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/raw_sound4.wav.flat",
+        "source": "com.example.countrylabapp-main-33:/raw/sound4.wav"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_text_slide_up.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/text_slide_up.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_flag_drop.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/flag_drop.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/raw_sound6.wav.flat",
+        "source": "com.example.countrylabapp-main-33:/raw/sound6.wav"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/anim_text_bounce.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/anim/text_bounce.xml"
+    },
+    {
+        "merged": "com.example.countrylabapp-debug-31:/drawable_flag_france.xml.flat",
+        "source": "com.example.countrylabapp-main-33:/drawable/flag_france.xml"
+    }
+]
